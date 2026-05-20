@@ -1,0 +1,181 @@
+{
+  "scene": "scene_05",
+  "items": [
+    {
+      "name": "Lay's Baked Original",
+      "description": "white and yellow potato chip bag with Lay's logo and large BAKED text showing chip graphics",
+      "packaging_type": "bag",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 115,
+          "y": 199,
+          "w": 401,
+          "h": 400
+        },
+        "1": {
+          "x": 88,
+          "y": 259,
+          "w": 336,
+          "h": 340
+        },
+        "2": {
+          "x": 1,
+          "y": 218,
+          "w": 314,
+          "h": 381
+        },
+        "3": {
+          "x": 108,
+          "y": 215,
+          "w": 327,
+          "h": 384
+        }
+      },
+      "confidence": 0.906,
+      "size": "1.125oz",
+      "upc": "028400064002",
+      "world_position": {
+        "x_mm": -80.8,
+        "y_mm": 147.7
+      }
+    },
+    {
+      "name": "SunChips Harvest Cheddar",
+      "description": "orange and yellow foil chip bag with large SunChips logo and Harvest Cheddar text",
+      "packaging_type": "bag",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 581,
+          "y": 107,
+          "w": 218,
+          "h": 411
+        },
+        "1": {
+          "x": 461,
+          "y": 181,
+          "w": 338,
+          "h": 419
+        },
+        "2": {
+          "x": 313,
+          "y": 138,
+          "w": 465,
+          "h": 448
+        },
+        "3": {
+          "x": 470,
+          "y": 151,
+          "w": 329,
+          "h": 445
+        }
+      },
+      "confidence": 0.928,
+      "size": "2.75oz",
+      "upc": "028400064026",
+      "world_position": {
+        "x_mm": 121.5,
+        "y_mm": 135.9
+      }
+    },
+    {
+      "name": "Topo Chico Mineral Water",
+      "description": "clear sparkling mineral water in a tall glass bottle with a yellow metal bottle cap and Topo Chico label",
+      "packaging_type": "bottle",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 403,
+          "y": 0,
+          "w": 398,
+          "h": 199
+        },
+        "1": {
+          "x": 500,
+          "y": 0,
+          "w": 262,
+          "h": 156
+        },
+        "2": {
+          "x": 276,
+          "y": 0,
+          "w": 404,
+          "h": 127
+        },
+        "3": {
+          "x": 483,
+          "y": 0,
+          "w": 274,
+          "h": 33
+        }
+      },
+      "confidence": 0.905,
+      "size": "12oz",
+      "upc": "070847811923",
+      "world_position": {
+        "x_mm": 100.5,
+        "y_mm": -67.0
+      }
+    },
+    {
+      "name": "Coca-Cola 20oz Bottle",
+      "description": "dark brown cola in a clear plastic PET bottle with a red screw cap and red Coca-Cola label",
+      "packaging_type": "bottle",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 54,
+          "y": 0,
+          "w": 260,
+          "h": 159
+        },
+        "1": {
+          "x": 0,
+          "y": 0,
+          "w": 140,
+          "h": 214
+        },
+        "2": {
+          "x": -1,
+          "y": 1,
+          "w": 444,
+          "h": 216
+        },
+        "3": {
+          "x": 53,
+          "y": 51,
+          "w": 128,
+          "h": 174
+        }
+      },
+      "confidence": 0.933,
+      "size": "20oz",
+      "upc": "049000028911",
+      "world_position": {
+        "x_mm": -136.1,
+        "y_mm": -46.8
+      }
+    }
+  ]
+}

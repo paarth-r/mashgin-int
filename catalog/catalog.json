@@ -1,0 +1,74 @@
+[
+  {
+    "id": "coca_cola_bottle",
+    "name": "Coca-Cola 20oz Bottle",
+    "description": "dark brown cola in a clear plastic PET bottle with a red screw cap and red Coca-Cola label",
+    "packaging_type": "bottle",
+    "size": "20oz",
+    "upc": "049000028911",
+    "ref_image_paths": ["coca_cola_bottle.jpg"]
+  },
+  {
+    "id": "topo_chico",
+    "name": "Topo Chico Mineral Water",
+    "description": "clear sparkling mineral water in a tall glass bottle with a yellow metal bottle cap and Topo Chico label",
+    "packaging_type": "bottle",
+    "size": "12oz",
+    "upc": "070847811923",
+    "ref_image_paths": ["topo_chico.jpg"]
+  },
+  {
+    "id": "sunchips_harvest_cheddar",
+    "name": "SunChips Harvest Cheddar",
+    "description": "orange and yellow foil chip bag with large SunChips logo and Harvest Cheddar text",
+    "packaging_type": "bag",
+    "size": "2.75oz",
+    "upc": "028400064026",
+    "ref_image_paths": ["sunchips_harvest_cheddar.jpg", "sunchips_harvest_cheddar_b.jpg"]
+  },
+  {
+    "id": "lays_baked_original",
+    "name": "Lay's Baked Original",
+    "description": "white and yellow potato chip bag with Lay's logo and large BAKED text showing chip graphics",
+    "packaging_type": "bag",
+    "size": "1.125oz",
+    "upc": "028400064002",
+    "ref_image_paths": ["lays_baked_original.jpg", "lays_baked_original_b.jpg"]
+  },
+  {
+    "id": "frosted_mini_wheats",
+    "name": "Kellogg's Frosted Mini Wheats",
+    "description": "small orange cereal box with Kellogg's Frosted Mini Wheats text and frosted wheat biscuit character illustration",
+    "packaging_type": "box",
+    "size": "single serve",
+    "upc": "038000014802",
+    "ref_image_paths": ["frosted_mini_wheats_s09.jpg"]
+  },
+  {
+    "id": "froot_loops",
+    "name": "Kellogg's Froot Loops",
+    "description": "small red and pink cereal box with colorful Froot Loops toucan Sam logo and multicolored cereal loops",
+    "packaging_type": "box",
+    "size": "single serve",
+    "upc": "038000591006",
+    "ref_image_paths": ["froot_loops_s09.jpg", "froot_loops_b.jpg"]
+  },
+  {
+    "id": "jarritos_tamarind",
+    "name": "Jarritos Tamarind Soda",
+    "description": "amber or yellow-orange Mexican soda glass bottle with white Jarritos metal bottle cap and tamarind label",
+    "packaging_type": "bottle",
+    "size": "12.5oz",
+    "upc": "607312003119",
+    "ref_image_paths": ["jarritos_tamarind.jpg"]
+  },
+  {
+    "id": "jarritos_fruit_punch",
+    "name": "Jarritos Fruit Punch Soda",
+    "description": "bright red or pink Mexican soda glass bottle with white Jarritos metal bottle cap and fruit punch label",
+    "packaging_type": "bottle",
+    "size": "12.5oz",
+    "upc": "607312003058",
+    "ref_image_paths": ["jarritos_fruit_punch.jpg"]
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "scene": "scene_04",
+  "items": [
+    {
+      "name": "Lay's Baked Original",
+      "description": "white and yellow potato chip bag with Lay's logo and large BAKED text showing chip graphics",
+      "packaging_type": "bag",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 115,
+          "y": 197,
+          "w": 401,
+          "h": 402
+        },
+        "1": {
+          "x": 88,
+          "y": 260,
+          "w": 336,
+          "h": 340
+        },
+        "2": {
+          "x": 1,
+          "y": 217,
+          "w": 314,
+          "h": 381
+        },
+        "3": {
+          "x": 108,
+          "y": 215,
+          "w": 327,
+          "h": 384
+        }
+      },
+      "confidence": 0.91,
+      "size": "1.125oz",
+      "upc": "028400064002",
+      "world_position": {
+        "x_mm": -80.8,
+        "y_mm": 147.8
+      }
+    },
+    {
+      "name": "SunChips Harvest Cheddar",
+      "description": "orange and yellow foil chip bag with large SunChips logo and Harvest Cheddar text",
+      "packaging_type": "bag",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 581,
+          "y": 107,
+          "w": 218,
+          "h": 411
+        },
+        "1": {
+          "x": 458,
+          "y": 181,
+          "w": 341,
+          "h": 419
+        },
+        "2": {
+          "x": 316,
+          "y": 133,
+          "w": 462,
+          "h": 451
+        },
+        "3": {
+          "x": 471,
+          "y": 148,
+          "w": 327,
+          "h": 448
+        }
+      },
+      "confidence": 0.923,
+      "size": "2.75oz",
+      "upc": "028400064026",
+      "world_position": {
+        "x_mm": 121.4,
+        "y_mm": 135.9
+      }
+    },
+    {
+      "name": "Topo Chico Mineral Water",
+      "description": "clear sparkling mineral water in a tall glass bottle with a yellow metal bottle cap and Topo Chico label",
+      "packaging_type": "bottle",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 403,
+          "y": 0,
+          "w": 398,
+          "h": 199
+        },
+        "1": {
+          "x": 497,
+          "y": 100,
+          "w": 243,
+          "h": 60
+        },
+        "2": {
+          "x": 272,
+          "y": 0,
+          "w": 412,
+          "h": 132
+        },
+        "3": {
+          "x": 379,
+          "y": 69,
+          "w": 362,
+          "h": 272
+        }
+      },
+      "confidence": 0.926,
+      "size": "12oz",
+      "upc": "070847811923",
+      "world_position": {
+        "x_mm": 88.9,
+        "y_mm": -44.9
+      }
+    },
+    {
+      "name": "Topo Chico Mineral Water",
+      "description": "clear sparkling mineral water in a tall glass bottle with a yellow metal bottle cap and Topo Chico label",
+      "packaging_type": "bottle",
+      "cameras": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 54,
+          "y": 0,
+          "w": 260,
+          "h": 160
+        },
+        "1": {
+          "x": 1,
+          "y": 0,
+          "w": 141,
+          "h": 214
+        },
+        "2": {
+          "x": -1,
+          "y": 1,
+          "w": 444,
+          "h": 216
+        },
+        "3": {
+          "x": 54,
+          "y": 51,
+          "w": 128,
+          "h": 174
+        }
+      },
+      "confidence": 0.921,
+      "size": "12oz",
+      "upc": "070847811923",
+      "world_position": {
+        "x_mm": -135.7,
+        "y_mm": -46.8
+      }
+    },
+    {
+      "name": "Kellogg's Froot Loops",
+      "description": "small red and pink cereal box with colorful Froot Loops toucan Sam logo and multicolored cereal loops",
+      "packaging_type": "box",
+      "cameras": [
+        0,
+        1,
+        3
+      ],
+      "camera_detections": {
+        "0": {
+          "x": 685,
+          "y": 25,
+          "w": 114,
+          "h": 83
+        },
+        "1": {
+          "x": 499,
+          "y": 0,
+          "w": 263,
+          "h": 112
+        },
+        "3": {
+          "x": 553,
+          "y": 0,
+          "w": 228,
+          "h": 136
+        }
+      },
+      "confidence": 0.802,
+      "size": "single serve",
+      "upc": "038000591006",
+      "world_position": {
+        "x_mm": 151.2,
+        "y_mm": -88.9
+      }
+    }
+  ]
+}
