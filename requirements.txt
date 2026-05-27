@@ -1,0 +1,7 @@
+torch
+torchvision
+open-clip-torch
+transformers
+Pillow
+opencv-python
+numpy
